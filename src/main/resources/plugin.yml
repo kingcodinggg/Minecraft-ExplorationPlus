@@ -2,3 +2,4 @@ name: ExplorationPlus
 version: ${project.version}
 main: devlaunchers.exploration.ExplorationPlus
 api-version: 1.16
+load: startup
